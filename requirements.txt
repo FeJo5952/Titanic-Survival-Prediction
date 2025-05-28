@@ -1,0 +1,7 @@
+## Required packages to run the Python Jupyter notebook
+
+Obviously this project is not so magnificient that you need extreme versions of python libraries for it to run. But just for formalties,
+these are the python libraries and their versions which I have used for running this program in a Kaggle notebook
+
+pandas == 2.2.3
+numpy == 1.26.4
