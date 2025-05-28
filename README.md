@@ -2,6 +2,8 @@
 
 This project aims to predict which passengers survived the Titanic disaster using machine learning. It is based on the Kaggle competition ["Titanic: Machine Learning from Disaster"](https://www.kaggle.com/competitions/titanic).
 
+This is my first ML project which I ever made, so be a bit lenient in judging me. But feel free to provide your suggestions.
+
 ---
 
 ## 🧠 Model
