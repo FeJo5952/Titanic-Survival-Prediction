@@ -29,7 +29,7 @@ This is my first ML project which I ever made, so be a bit lenient in judging me
 ---
 
 ## 📁 Files
-- `notebook.ipynb`: Code and model
+- `titanic-ml-competition.ipynb`: Code and model
 - `requirements.txt`: Python dependencies
 
 ---
