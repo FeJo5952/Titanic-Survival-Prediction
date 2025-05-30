@@ -35,52 +35,26 @@ This is my first ML project which I ever made, so be a bit lenient in judging me
 ---
 
 ## 🚀 How to Run the Project
+Follow these simple steps to run this project on your computer using Visual Studio Code (VS Code): 
 
-Follow these steps to run the notebook on your local machine:
+### 1. Download the project
+- Click the green **"Code"** button on this GitHub page.
+- Select **"Download ZIP"**.
+- Extract the ZIP file to any location on your computer.
+### 2. Install Visual Studio Code
+If you don't already have it, download and install **VS Code** from [https://code.visualstudio.com](https://code.visualstudio.com).
+### 3. Install Python and Jupyter in VS Code
+- Open VS Code.
+- Install the **Python and Jupyter extension** if it's not already installed.
+### 4. Open the Project
+- In VS Code, go to **File > Open Folder**.
+- Select the folder you extracted in Step 1.
+### 5. Run the Notebook
+- Open the file `titanic-ml-competition.ipynb`.
+- The notebook will open inside VS Code.
+- Click on **“Run All”** or run the cells one by one.
 
-### 1. Clone the repository
-Download the project to your computer using Git:
-
-```bash
-git clone https://github.com/FeJo5952/Titanic-Survival-Prediction.git
-cd Titanic-Survival-Prediction
-Alternatively, you can also download the ZIP from GitHub and extract it.
-
-2. Install Python and Jupyter
-Make sure Python and Jupyter are installed. You can use:
-
-Anaconda (Recommended for beginners): Download Anaconda
-
-Or install manually:
-
-bash
-Copy
-Edit
-pip install jupyter
-3. Install required libraries
-Inside the project folder, install all necessary Python libraries:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-4. Add the dataset
-Download the Titanic dataset from the Kaggle Titanic Competition, and place the train.csv and test.csv files inside the data/ folder in this repo.
-
-5. Launch the notebook
-Start the Jupyter Notebook server:
-
-bash
-Copy
-Edit
-jupyter notebook
-Then open titanic-ml-competition.ipynb in your browser and run the cells one by one.
-
-vbnet
-Copy
-Edit
-
-Let me know if you want this as a collapsible section or if you'd like it shortened fur
+That's it! ✅ No need to install any extra libraries — this project only uses `pandas` and `numpy`, which usually come pre-installed with the Python extension in VS Code.
 
 ---
 
