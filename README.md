@@ -34,10 +34,53 @@ This is my first ML project which I ever made, so be a bit lenient in judging me
 
 ---
 
-## 🚀 How to Run
-1. Clone the repo
-2. Install dependencies
-3. Run the notebook
+## 🚀 How to Run the Project
+
+Follow these steps to run the notebook on your local machine:
+
+### 1. Clone the repository
+Download the project to your computer using Git:
+
+```bash
+git clone https://github.com/FeJo5952/Titanic-Survival-Prediction.git
+cd Titanic-Survival-Prediction
+Alternatively, you can also download the ZIP from GitHub and extract it.
+
+2. Install Python and Jupyter
+Make sure Python and Jupyter are installed. You can use:
+
+Anaconda (Recommended for beginners): Download Anaconda
+
+Or install manually:
+
+bash
+Copy
+Edit
+pip install jupyter
+3. Install required libraries
+Inside the project folder, install all necessary Python libraries:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+4. Add the dataset
+Download the Titanic dataset from the Kaggle Titanic Competition, and place the train.csv and test.csv files inside the data/ folder in this repo.
+
+5. Launch the notebook
+Start the Jupyter Notebook server:
+
+bash
+Copy
+Edit
+jupyter notebook
+Then open titanic-ml-competition.ipynb in your browser and run the cells one by one.
+
+vbnet
+Copy
+Edit
+
+Let me know if you want this as a collapsible section or if you'd like it shortened fur
 
 ---
 
